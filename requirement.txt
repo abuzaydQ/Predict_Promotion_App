@@ -1,7 +1,7 @@
 Pandas
 numpy
 Streamlit
-scikit-learn
+sklearn
 
 
 The demo will be availabale shortly
