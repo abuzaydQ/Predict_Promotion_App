@@ -1,7 +1,0 @@
-Pandas
-numpy
-Streamlit
-sklearn
-
-
-The demo will be availabale shortly
