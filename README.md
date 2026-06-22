@@ -1,3 +1,3 @@
 # Promoted_Students_project
-# Predict_Promotion_App
-# Predict_Promotion_App
+
+Demo: https://https://predictpromotionapp-hwh7bymz2tjqrufsxqyopw.streamlit.app/
